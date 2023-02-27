@@ -4,4 +4,4 @@
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [My first react ](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
+| 01  | [My first react ](https://github.com/imran2975/React/tree/master/My-first-react)                             | [Live Demo](https://imran-my-first-react.netlify.app/)               |
